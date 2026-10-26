@@ -4,24 +4,14 @@
 
 Pixel Intern is an AI-assisted pixel-art companion with silver-gray glasses and a crossbody satchel.
 
-[![Download on Petdex](https://img.shields.io/badge/Petdex-下载像素实习生-6366f1)](https://assets.petdex.dev/pets/pixel-intern-94afbffaae0e/zip.zip)
-[![GitHub release](https://img.shields.io/github/v/release/CaiusLuo/pixel-intern)](https://github.com/CaiusLuo/pixel-intern/releases/latest)
+[![Live on Petdex](https://img.shields.io/badge/Petdex-已上线-6366f1)](https://petdex.dev/pets/pixel-intern)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-## 快捷下载
+## Petdex
 
-- **[Petdex 直接下载 ZIP](https://assets.petdex.dev/pets/pixel-intern-94afbffaae0e/zip.zip)**：与 Petdex 的 “Download ZIP” 按钮使用同一下载地址。
-- [Petdex 宠物详情页](https://petdex.dev/pets/pixel-intern)
-- **[GitHub 最新宠物包 ZIP](https://github.com/CaiusLuo/pixel-intern/releases/latest/download/pixel-intern.zip)**：解压后得到 `pet.json` 和 `spritesheet.webp`。
-- [直接下载精灵图](https://github.com/CaiusLuo/pixel-intern/releases/latest/download/spritesheet.webp)
+像素实习生已于 **2026 年 10 月 26 日上线 Petdex**。
 
-### 一条命令安装
-
-```bash
-npx petdex install pixel-intern
-```
-
-Petdex 投稿目前正在审核，命令安装和公开详情页可能需审核通过后才能使用；可以先通过上面的 ZIP 直链下载。
+**[在 Petdex 查看像素实习生](https://petdex.dev/pets/pixel-intern)**
 
 ## 动画预览
 
@@ -36,14 +26,6 @@ Petdex 投稿目前正在审核，命令安装和公开详情页可能需审核�
 ### 16 个看向方向
 
 ![16 个看向方向](previews/look-directions.png)
-
-## 安装
-
-1. 下载并解压 `pixel-intern.zip`。
-2. 将 `pet.json` 和 `spritesheet.webp` 放入 `~/.codex/pets/pixel-intern/`（macOS / Linux）。已有同名目录时先备份。
-3. 在支持自定义宠物的 Codex 版本中刷新宠物列表或重启应用，然后选择“像素实习生”。
-
-ZIP 内只有两个根目录文件，无须安装依赖或运行脚本。
 
 ## 当前版本
 
